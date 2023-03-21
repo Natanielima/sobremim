@@ -1,8 +1,9 @@
 .fotoSobreMim {
     margin-bottom: .5rem;
     margin-left: 1.5rem;
-    width: 40vw;
+    width: 30vw;
     float: right;
+    border-radius: 15%;
 }
 
 .subtitulo {

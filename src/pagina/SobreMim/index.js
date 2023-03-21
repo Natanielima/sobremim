@@ -14,42 +14,23 @@ export default function SobreMim() {
         alt="Foto Natanzinho Sorrindo"
       />
       <p className={styles.paragrafo}>
-        Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te
-        ver por aqui.
+        Salve, tudo bem? Espero que sim, bem sou estudante de Analise e Desenvolvimento de Sistemas na Gran Faculdade, estou buscando estudos para realização da migração de área!
       </p>
 
       <p className={styles.paragrafo}>
-        Minha história com programação começou no Instituto Federal do Piauí
-        (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu
-        aprendi lógica de programação e o básico de várias linguagens, como PHP,
-        Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava
-        muito de estudar programação, mas na época não fazia ideia de que
-        trabalharia com isso hoje.
+        Iinicialmente me formei em Engenharia Civil e durante o curso vi a necessidade de adicionar mais tecnologias para agilizar os serviços a serem executados
+        perante isso inicei estudos em programação na Alura e logo vi o mundo de oportunidades de linguagens que estariam disponíveis, não apenas a parte de Engenharia, mas sim de todas as profissões!
       </p>
 
-      <p className={styles.paragrafo}>
-        No ensino superior, escolhi cursar Engenharia Elétrica na Universidade
-        Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de
-        Educação Tutorial), um grupo acadêmico que contribui de diversas formas
-        para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web
-        para ser um dos mantenedores do site deles.
-      </p>
 
       <p className={styles.paragrafo}>
-      Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+      Com os estudos em na Alura iniciei nos cursos básicos de HTML5 e CSS3, logo fui passando para JavaScript e me dedicando mais! Cada dia busco evoluir um pouco para adquirir mais conhecimentos!
 
       </p>
       
 
       <p className={styles.paragrafo}>
-      E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
-
-      </p>
-      
-
-      <p className={styles.paragrafo}>
-      Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
-
+      Hoje busco estágio na área e uma realocação de mercado para poder somar mais conhecimentos!
       </p>
       
     </PostModelo>
