@@ -30,7 +30,8 @@
     right: 0;
     bottom: 0;
     width: 18vw;
-    border-radius: 50%;
+    height: 18vw;
+    border-radius: 100%;
 }
 
 .imagens > .circuloColorido {
